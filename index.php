@@ -23,7 +23,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
-            <a class="navbar-brand me-5 fw-bold fs-3 h-font" href="#">Krishendu Dalui Hotel</a>
+            <a class="navbar-brand me-5 fw-bold fs-3 h-font" href="index.php">Krishendu Dalui Hotel</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -33,16 +33,16 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Room</a>
+                        <a class="nav-link me-2 " href="#">Room</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Facilities</a>
+                        <a class="nav-link  me-2" href="#">Facilities</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact Us</a>
+                        <a class="nav-link  me-2" href="#">Contact Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link  " href="#">About</a>
                     </li>
 
                 </ul>
