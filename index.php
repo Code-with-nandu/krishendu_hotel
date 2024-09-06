@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+tr<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -33,7 +33,7 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link me-2 " href="#">Room</a>
+                        <a class="nav-link me-2" href="#">Room</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link  me-2" href="#">Facilities</a>
